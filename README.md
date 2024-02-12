@@ -1,5 +1,5 @@
-# Das-Editor
-## Finest Simple Text editor using python
+
+# Simple Text editor using python
 
 # What Das-Editor can do now:
   * Allows using like a notepad 
